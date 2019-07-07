@@ -1,1 +1,10 @@
 *.db
+db.*
+__pycache__/
+.idea/
+.vscode/
+.idea/misc.xml
+channelsproj/__pycache__/__init__.cpython-37.pyc
+channelsproj/__pycache__/settings.cpython-37.pyc
+channelsproj/__pycache__/__init__.cpython-37.pyc
+channelsproj/__pycache__/settings.cpython-37.pyc
